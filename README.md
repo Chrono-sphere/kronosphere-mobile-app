@@ -1,2 +1,2 @@
-# timebomb-mobile-app
+# timesup-mobile-app
 💣 Task and reminder management
